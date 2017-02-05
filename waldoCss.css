@@ -33,3 +33,42 @@ body{
 	border: 2px solid black;
 	cursor: default;
 }
+
+
+.link2 {
+    width:10px;
+    height:10px;
+    position:absolute;
+    top:78.5%;
+    left:29.5%;
+    display:block;
+    z-index:2;
+	border: 2px solid black;
+	cursor: default;
+}
+
+
+.link3 {
+    width:10px;
+    height:10px;
+    position:absolute;
+    top:31.5%;
+    left:45.2%;
+    display:block;
+    z-index:2;
+	border: 2px solid black;
+	cursor: default;
+}
+
+
+.link4 {
+    width:10px;
+    height:10px;
+    position:absolute;
+    top:43.5%;
+    left:53%;
+    display:block;
+    z-index:2;
+	border: 2px solid black;
+	cursor: default;
+}
