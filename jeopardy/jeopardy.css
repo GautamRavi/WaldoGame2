@@ -1,0 +1,25 @@
+body {
+	background-color: #2a3698;
+	text-align: center;
+	color: #73ad21;	
+}
+
+.big-box {
+	width: 90%;
+	margin: auto;
+}
+
+.box{
+	float: left;
+	width: 250px;
+	height: 150px;
+	margin: 10px;
+	border: 3px solid #73ad21;
+	font-size: 50px;
+}
+
+.col {
+	float: left;
+	width: 25%;
+	text-align: center;
+}
