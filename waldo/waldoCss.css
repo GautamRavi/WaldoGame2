@@ -22,11 +22,14 @@ body{
     top: 0px; 
     z-index: 0;
 }
+
+/* picture keys: http://where-is-waldo-wally.deviantart.com/gallery/ */
+
 .link {
     width:10px;
     height:10px;
     position:absolute;
-    top:39.38%;
+    top:36%;
     left:49.23%;
     display:block;
     z-index:2;
@@ -39,7 +42,7 @@ body{
     width:10px;
     height:10px;
     position:absolute;
-    top:78.5%;
+    top:70.5%;
     left:29.5%;
     display:block;
     z-index:2;
@@ -52,7 +55,7 @@ body{
     width:10px;
     height:10px;
     position:absolute;
-    top:31.5%;
+    top:28.5%;
     left:45.2%;
     display:block;
     z-index:2;
@@ -65,8 +68,102 @@ body{
     width:10px;
     height:10px;
     position:absolute;
-    top:43.5%;
+    top:38.75%;
     left:53%;
+    display:block;
+    z-index:2;
+	border: 2px solid black;
+	cursor: default;
+}
+
+.link5 {
+    width:10px;
+    height:10px;
+    position:absolute;
+    top:30.3%;
+    left:63.5%;
+    display:block;
+    z-index:2;
+	border: 2px solid black;
+	cursor: default;
+}
+
+.link6 {
+    width:10px;
+    height:10px;
+    position:absolute;
+    top:22%;
+    left:55.3%;
+    display:block;
+    z-index:2;
+	border: 2px solid black;
+	cursor: default;
+}
+
+.link7 {
+    width:10px;
+    height:10px;
+    position:absolute;
+    top:25%;
+    left:44.5%;
+    display:block;
+    z-index:2;
+	border: 2px solid black;
+	cursor: default;
+}
+
+.link8 {
+    width:10px;
+    height:10px;
+    position:absolute;
+    top:53.5%;
+    left:43.85%;
+    display:block;
+    z-index:2;
+	border: 2px solid black;
+	cursor: default;
+}
+
+.link9 {
+    width:10px;
+    height:10px;
+    position:absolute;
+    top:12.3%;
+    left:71.2%;
+    display:block;
+    z-index:2;
+	border: 2px solid black;
+	cursor: default;
+}
+
+.link10 {
+    width:10px;
+    height:10px;
+    position:absolute;
+    top:59%;
+    left:30.25%;
+    display:block;
+    z-index:2;
+	border: 2px solid black;
+	cursor: default;
+}
+.link11 {
+    width:10px;
+    height:10px;
+    position:absolute;
+    top:38%;
+    left:71.25%;
+    display:block;
+    z-index:2;
+	border: 2px solid black;
+	cursor: default;
+}
+.link12 {
+    width:10px;
+    height:10px;
+    position:absolute;
+    top:65.25%;
+    left:25.75%;
     display:block;
     z-index:2;
 	border: 2px solid black;
